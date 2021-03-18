@@ -22,5 +22,6 @@ from: nvcr.io/nvidia/torch:18.08-py2
     apt install -y qt4-default
     luarocks install qtlua
     luarocks install qttorch
+    luarocks install lanes
     echo "slut" 
     
